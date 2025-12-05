@@ -1,3 +1,7 @@
+# DEPRECATED: Use https://github.com/composablehorizons/compose-uri-painter instead for 1-line API instead
+
+---
+
 # Add Coil Multiplatform
 
 [Coil Multiplatform support is here](https://github.com/coil-kt/coil/issues/842)! Unfortunately setting it up is not straightforward, especially
